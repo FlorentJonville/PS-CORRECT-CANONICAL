@@ -1,4 +1,4 @@
-# PS-CORRECT-CANONICAL
+# PS-CORRECT-CANONICAL-CATEGORY
 Corrige le problème des urls canoniques dans la pagination des catégories sur Prestashop 1.7
 
 ```
